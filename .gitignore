@@ -18,3 +18,6 @@ _local/
 # plugin configs can hold API keys: ignored by default, re-allow only after reviewing each file
 .obsidian/plugins/*/data.json
 !.obsidian/plugins/obsidian-git/data.json
+
+# anchor-memory plugin: auto-saved local session state
+.anchor/session-state.md
