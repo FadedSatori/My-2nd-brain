@@ -1,0 +1,20 @@
+# Obsidian: per-device UI state and caches
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.smart-env/
+.DS_Store
+
+# secrets and local-only material
+.env
+.env.*
+*.pem
+*.key
+*.p12
+secrets/
+_local/
+
+# plugin configs can hold API keys: ignored by default, re-allow only after reviewing each file
+.obsidian/plugins/*/data.json
+!.obsidian/plugins/obsidian-git/data.json

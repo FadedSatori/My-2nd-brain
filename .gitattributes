@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+# only if you keep a shared append-only log:
+# log.md merge=union
