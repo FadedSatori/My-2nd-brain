@@ -1,6 +1,6 @@
 # Session state (auto-saved — last known reality)
 
-_Updated: 2026-10-26 00:40:00_  ·  branch: `ccr-ec53b407-tlyhpx`
+_Updated: 2026-10-26 00:42:45_  ·  branch: `ccr-ec53b407-tlyhpx`
 
 ## Uncommitted changes
 ```
@@ -9,12 +9,15 @@ _Updated: 2026-10-26 00:40:00_  ·  branch: `ccr-ec53b407-tlyhpx`
 
 Diff stat:
 ```
- .anchor/session-state.md | 15 ++-------------
- 1 file changed, 2 insertions(+), 13 deletions(-)
+ .anchor/session-state.md | 15 +--------------
+ 1 file changed, 1 insertion(+), 14 deletions(-)
 ```
 
 ## Recent commits
 ```
+b6dce52 Scaffold vault skeleton and draft rule files
+dfcba11 Add .gitignore and .gitattributes for the vault
+da19d0c Update auto-saved session state checkpoint
 d338b2f Add auto-saved session state checkpoint
 c0e3766 Initial commit
 ```
